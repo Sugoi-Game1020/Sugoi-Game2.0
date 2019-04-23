@@ -6,7 +6,7 @@ if ($userDetails->conta) {
     exit();
 }
 
-$facebook_url = "https://www.facebook.com/dialog/oauth?client_id=296635354108298&redirect_uri=https://sugoigame.com.br/Scripts/Geral/login_facebook.php&scope=email";
+$facebook_url = "https://www.facebook.com/dialog/oauth?client_id=296635354108298&redirect_uri=https://mugiwaragame.com.br/Scripts/Geral/login_facebook.php&scope=email";
 
 $banners = array(
     "1" => array(
@@ -73,7 +73,7 @@ if (!isset($banners[$banner_id])) {
 -->
 <html>
 <head>
-    <title>Sugoi Game - One Piece RPG - Crie sua própria história e viva novas aventuras!</title>
+    <title>Mugiwara Game - One Piece RPG - Crie sua própria história e viva novas aventuras!</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
     <meta name="description"
