@@ -7,7 +7,7 @@ if ($userDetails->conta) {
     exit();
 }
 
-$facebook_url = "https://www.facebook.com/dialog/oauth?client_id=296635354108298&redirect_uri=https://sugoigame.com.br/Scripts/Geral/login_facebook.php&scope=email";
+$facebook_url = "https://www.facebook.com/dialog/oauth?client_id=296635354108298&redirect_uri=https://mugiwaragame.com.br/Scripts/Geral/login_facebook.php&scope=email";
 
 ?>
 <!DOCTYPE HTML>
@@ -22,11 +22,11 @@ $facebook_url = "https://www.facebook.com/dialog/oauth?client_id=296635354108298
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="description" content="Não é apenas um jogo de navegador, é a jornada mais incrível da sua vida!">
-    <meta property="og:url" content="https://sugoigame.com.br/login.php">
+    <meta property="og:url" content="https://mugiwaragame.com.br/login.php">
     <meta property="og:title" content="Sugoi Game. Jogue agora! É grátis!">
     <meta property="og:site_name" content="Sugoi Game">
     <meta property="og:description" content="A jornada mais incrível da sua vida!">
-    <meta property="og:image" content="https://sugoigame.com.br/Imagens/Banners/home.jpg">
+    <meta property="og:image" content="https://mugiwaragame.com.br/Imagens/Banners/home.jpg">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="fb:app_id" content="296635354108298">
 
